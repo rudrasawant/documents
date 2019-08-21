@@ -1,1 +1,1 @@
-Hey guys, we are in a git trainingll.
+Hey guys, we are in a git training.
